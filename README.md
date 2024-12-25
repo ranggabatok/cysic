@@ -10,7 +10,7 @@ Rekomendasi Spek :
    - Connect wallet EVM
    - Masukin kode : ac5be
    - Bikin username verifier bebas dan add foto
-   - Connect wallet KEPLR ( Import phrase EVM Wallet kita ke KEPLR )
+   - Connect wallet KEPLR ( Import Private Key EVM Wallet kita ke KEPLR )
    - Done
 
 2. Install
