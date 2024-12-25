@@ -19,7 +19,7 @@ echo "██████╗  █████╗ ████████╗ █�
                                           "
 
 # Minta pengguna memasukkan address reward
-echo "Masukkan address EVM yg connect ke Website"
+echo "Masukkan address EVM yg connect ke Website :"
 read -r REWARD_ADDRESS
 
 # Pastikan input address tidak kosong
