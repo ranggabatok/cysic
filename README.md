@@ -1,9 +1,8 @@
-Recommend Spek
-CPU: Single Core
-Memory: 8 GB
-Disk: 512 MB
-Bandwidth: 100 KB/s upload/download
-Supported Operating Systems: Windows, Linux, Mac
+Rekomendasi Spek :
+- CPU    : Single Core
+- Memory : 8GB
+- Disk   : 521 MB
+- OS     : Windows, Linux, Mac
 
 
 1. Buka https://testnet.cysic.xyz/m/referral/invite
